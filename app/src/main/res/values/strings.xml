@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">quizapp2</string>
+    <string name="count_label">Q %d</string>
+    <string name="question_label">Question</string>
+    <string name="btnanswer">choice</string>
+
+    <string name="resultLabel">RESULT</string>
+    <string name="result">%d / 5</string>
+
+
+</resources>
